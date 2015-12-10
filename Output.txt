@@ -1,0 +1,167 @@
+platform.download:
+ant -f E:\\UserLibs\\jacob\\NetbeansProjects\\Sandbox\\NBP\\MyGeospatialSystem run
+Warning: no numbered cluster matching bare name 'C:\Program Files\NetBeans 8.0.1\cluster' found.
+branding:
+files-init:
+release:
+build:
+org.openmap.taskdefs:
+org.openmap.common-init:
+Warning: no numbered cluster matching bare name 'C:\Program Files\NetBeans 8.0.1\cluster' found.
+org.openmap.projectized-common.basic-init:
+org.openmap.basic-init:
+org.openmap.files-init:
+org.openmap.nbm-license-init:
+org.openmap.build-init:
+Scanning for modules in C:\Program Files\NetBeans 8.0.1\platform
+Scanning for modules in suite E:\UserLibs\jacob\NetbeansProjects\Sandbox\NBP\MyGeospatialSystem
+org.openmap.init:
+org.openmap.up-to-date:
+org.openmap.compile:
+org.openmap.jar-prep:
+org.openmap.jar:
+org.openmap.netbeans-extra:
+org.openmap.javahelp:
+org.openmap.module-auto-deps:
+org.openmap.release:
+Copying 5 files to E:\UserLibs\jacob\NetbeansProjects\Sandbox\NBP\MyGeospatialSystem\build\cluster
+org.openmap.module-xml-regular:
+org.openmap.module-xml-autoload:
+org.openmap.module-xml-eager:
+org.openmap.chmod-executables:
+org.openmap.verify-class-linkage:
+0 file(s) have been successfully validated.
+org.openmap.netbeans:
+Generating Auto Update information for org.openmap
+org.geospatial.map.taskdefs:
+org.geospatial.map.common-init:
+Warning: no numbered cluster matching bare name 'C:\Program Files\NetBeans 8.0.1\cluster' found.
+org.geospatial.map.projectized-common.basic-init:
+org.geospatial.map.basic-init:
+org.geospatial.map.files-init:
+org.geospatial.map.nbm-license-init:
+org.geospatial.map.build-init:
+org.geospatial.map.init:
+org.geospatial.map.up-to-date:
+org.geospatial.map.compile:
+org.geospatial.map.jar-prep:
+org.geospatial.map.jar:
+org.geospatial.map.netbeans-extra:
+org.geospatial.map.javahelp:
+org.geospatial.map.module-auto-deps:
+org.geospatial.map.release:
+org.geospatial.map.module-xml-regular:
+org.geospatial.map.module-xml-autoload:
+org.geospatial.map.module-xml-eager:
+org.geospatial.map.chmod-executables:
+org.geospatial.map.verify-class-linkage:
+0 file(s) have been successfully validated.
+org.geospatial.map.netbeans:
+Generating Auto Update information for org.geospatial.map
+run:
+run.run:
+-------------------------------------------------------------------------------
+>Log Session: Thursday, December 10, 2015 2:35:33 PM MST
+>System Info: 
+  Product Version         = MyGeospatialSystem 201408251540
+  Operating System        = Windows 8 version 6.2 running on amd64
+  Java; VM; Vendor        = 1.7.0_21; Java HotSpot(TM) 64-Bit Server VM 23.21-b01; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.7.0_21-b11
+  Java Home               = C:\Program Files\Java\jdk1.7.0_21\jre
+  System Locale; Encoding = en_US (mygeospatialsystem); Cp1252
+  Home Directory          = C:\Users\jacob
+  Current Directory       = E:\UserLibs\jacob\NetbeansProjects\Sandbox\NBP\MyGeospatialSystem
+  User Directory          = E:\UserLibs\jacob\NetbeansProjects\Sandbox\NBP\MyGeospatialSystem\build\testuserdir
+  Cache Directory         = E:\UserLibs\jacob\NetbeansProjects\Sandbox\NBP\MyGeospatialSystem\build\testuserdir\var\cache
+  Installation            = E:\UserLibs\jacob\NetbeansProjects\Sandbox\NBP\MyGeospatialSystem\build\cluster
+                            C:\Program Files\NetBeans 8.0.1\platform
+                            C:\Program Files\NetBeans 8.0.1\platform
+  Boot & Ext. Classpath   = C:\Program Files\Java\jdk1.7.0_21\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_21\jre\classes;C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\zipfs.jar
+  Application Classpath   = C:\Program Files\NetBeans 8.0.1\platform\lib\boot.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\org-openide-modules.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\org-openide-util-lookup.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\org-openide-util.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\boot_ja.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\boot_pt_BR.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\boot_ru.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\boot_zh_CN.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\org-openide-modules_ja.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\org-openide-modules_pt_BR.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\org-openide-modules_ru.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\org-openide-modules_zh_CN.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\org-openide-util-lookup_ja.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\org-openide-util-lookup_pt_BR.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\org-openide-util-lookup_ru.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\org-openide-util-lookup_zh_CN.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\org-openide-util_ja.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\org-openide-util_pt_BR.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\org-openide-util_ru.jar;C:\Program Files\NetBeans 8.0.1\platform\lib\locale\org-openide-util_zh_CN.jar;C:\Program Files\Java\jdk1.7.0_21\lib\dt.jar;C:\Program Files\Java\jdk1.7.0_21\lib\tools.jar
+  Startup Classpath       = C:\Program Files\NetBeans 8.0.1\platform\core\core.jar;C:\Program Files\NetBeans 8.0.1\platform\core\org-openide-filesystems.jar;C:\Program Files\NetBeans 8.0.1\platform\core\locale\core_ja.jar;C:\Program Files\NetBeans 8.0.1\platform\core\locale\core_pt_BR.jar;C:\Program Files\NetBeans 8.0.1\platform\core\locale\core_ru.jar;C:\Program Files\NetBeans 8.0.1\platform\core\locale\core_zh_CN.jar;C:\Program Files\NetBeans 8.0.1\platform\core\locale\org-openide-filesystems_ja.jar;C:\Program Files\NetBeans 8.0.1\platform\core\locale\org-openide-filesystems_pt_BR.jar;C:\Program Files\NetBeans 8.0.1\platform\core\locale\org-openide-filesystems_ru.jar;C:\Program Files\NetBeans 8.0.1\platform\core\locale\org-openide-filesystems_zh_CN.jar;E:\UserLibs\jacob\NetbeansProjects\Sandbox\NBP\MyGeospatialSystem\build\cluster\core\locale\core_mygeospatialsystem.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.25.1 201408251540]
+	org.openide.util [8.39.1 201408251540]
+	org.openide.modules [7.43.1 201408251540]
+	org.openmap [1.0 151210]
+	org.openide.filesystems [8.12.1 201408251540]
+	org.netbeans.api.annotations.common/1 [1.24.1 201408251540]
+	org.openide.awt [7.62.1 201408251540]
+	org.netbeans.api.progress/1 [1.38.1 201408251540]
+	org.openide.dialogs [7.38.1 201408251540]
+	org.openide.nodes [7.39.1 201408251540]
+	org.openide.windows [6.71.1 201408251540]
+	org.netbeans.modules.editor.mimelookup/1 [1.36.1 201408251540]
+	org.openide.text [6.62.2 201410071419]
+	org.netbeans.swing.tabcontrol [1.51.1 201408251540]
+	org.netbeans.swing.outline [1.30.1 201408251540]
+	org.openide.explorer [6.57.1 201408251540]
+	org.openide.actions [6.35.1 201408251540]
+	org.netbeans.modules.queries/1 [1.39.1 201408251540]
+	org.openide.loaders [7.57.2 201410071419]
+	org.openide.io [1.45.1 201408251540]
+	org.netbeans.swing.plaf [1.37.1 201408251540]
+	org.netbeans.spi.quicksearch [1.23.1 201408251540]
+	org.netbeans.bootstrap/1 [2.69.1 201408251540]
+	org.netbeans.core.startup/1 [1.55.1 201408251540]
+	org.netbeans.modules.settings/1 [1.45.1 201408251540]
+	org.netbeans.modules.sampler [1.10.1 201408251540]
+	org.netbeans.modules.progress.ui [1.29.2 201410071419]
+	org.netbeans.modules.print [7.22.1 201408251540]
+	org.netbeans.modules.keyring [1.20.1 201408251540]
+	org.netbeans.core/2 [3.46.1 201408251540]
+	org.netbeans.modules.options.api/1 [1.41.1 201408251540]
+	org.netbeans.modules.options.keymap [1.31.1 201408251540]
+	org.netbeans.modules.masterfs/2 [2.48.2 201410071419]
+	org.netbeans.libs.jna/1 [1.38.1 201408251540]
+	org.netbeans.modules.masterfs.windows [1.13.1 201408251540]
+	org.netbeans.modules.masterfs.nio2 [1.12.1 201408251540]
+	org.netbeans.modules.keyring.fallback [1.4.1 201408251540]
+	org.netbeans.modules.keyring.impl [1.20.1 201408251540]
+	org.netbeans.modules.editor.mimelookup.impl/1 [1.27.1 201408251540]
+	org.netbeans.libs.osgi [1.18.1 201408251540]
+	org.netbeans.libs.jna.platform/1 [1.8.1 201408251540]
+	org.netbeans.libs.felix [2.12.1 201408251540]
+	org.netbeans.core.windows/2 [2.77.1 201408251540]
+	org.netbeans.core.ui/1 [1.41.1 201408251540]
+	org.netbeans.core.output2/1 [1.37.1 201408251540]
+	org.netbeans.core.network [1.6.1 201408251540]
+	org.netbeans.core.netigso [1.27.1 201408251540]
+	org.netbeans.core.nativeaccess/1 [1.27.1 201408251540]
+	org.netbeans.core.multitabs/1 [1.8.1.1 1 201408251540]
+	org.netbeans.core.io.ui/1 [1.26.1 201408251540]
+	org.geospatial.map [1.0 151210]
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
+INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto detect
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: fell to default (correct if direct mode went before)
+OpenMap(tm) Version 5.0
+  Copyright (C) BBNT Solutions LLC.  All rights reserved.
+  See http://openmap.bbn.com/ for details.
+
+INFO [org.netbeans.ui.metrics.laf]: USG_LOOK_AND_FEEL
+Diagnostic information
+Input arguments:
+	-Dnetbeans.logger.console=true
+	-ea
+	-Djdk.home=C:\Program Files\Java\jdk1.7.0_21
+	-splash:E:\UserLibs\jacob\NetbeansProjects\Sandbox\NBP\MyGeospatialSystem\build\testuserdir\var\cache\splash.png
+	-Dnetbeans.home=C:\Program Files\NetBeans 8.0.1\platform
+	-Dnetbeans.user=E:\UserLibs\jacob\NetbeansProjects\Sandbox\NBP\MyGeospatialSystem\build\testuserdir
+	-Dnetbeans.default_userdir_root=
+	-XX:+HeapDumpOnOutOfMemoryError
+	-XX:HeapDumpPath=E:\UserLibs\jacob\NetbeansProjects\Sandbox\NBP\MyGeospatialSystem\build\testuserdir\var\log\heapdump.hprof
+	-Dsun.awt.keepWorkingSetOnMinimize=true
+	-Dnetbeans.dirs=E:\UserLibs\jacob\NetbeansProjects\Sandbox\NBP\MyGeospatialSystem\build\cluster;C:\Program Files\NetBeans 8.0.1\platform
+	exit
+Compiler: HotSpot 64-Bit Tiered Compilers
+Heap memory usage: initial 128.0MB maximum 1820.5MB
+Non heap memory usage: initial 23.2MB maximum 130.0MB
+Garbage collector: PS Scavenge (Collections=5 Total time spent=0s)
+Garbage collector: PS MarkSweep (Collections=0 Total time spent=0s)
+Classes: loaded=4229 total loaded=4229 unloaded 0
+INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 8,588,349,440
+INFO [null]: Total physical memory 8,588,349,440
+BUILD SUCCESSFUL (total time: 14 seconds)
