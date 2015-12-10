@@ -5,7 +5,7 @@ import org.openide.awt.Actions;
 import org.openide.windows.OnShowing;
 
 @OnShowing
-public class Installer implements Runnable {
+public class OnShowingInstaller implements Runnable {
 
 	@Override
 	public void run() {
