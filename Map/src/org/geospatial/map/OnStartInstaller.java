@@ -11,7 +11,7 @@ public class OnStartInstaller implements Runnable {
     @Override
     public void run() {
         try {
-            sleep(500);
+            sleep(3250);
         } catch (InterruptedException ex) {
             Exceptions.printStackTrace(ex);
         }
